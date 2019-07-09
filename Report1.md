@@ -1,4 +1,10 @@
-# Motion Matching Implementation In Godot
+**Project Name :**  Motion Matching Implementation In Godot
+
+**My Name:** Aditya Abhiram (_aka DestinyGamer_)
+
+**Mentors:** Juan Linietsky([@reduz](https://github.com/reduz)) and Thomas Herzog([@karroffel](https://github.com/karroffel))
+
+
 
 ## Introduction
 
@@ -12,4 +18,3 @@ Motion Matching is one of the latest features in Game Animation which is quite r
 
 #### This wonderful feature needs to be included in Godot!
 
-The aim of this project is to *implement motion matching in Godot as a part of Google Summer of Code, 2k19*. 
