@@ -1,5 +1,4 @@
-			# MOTION MATCHING IMPLEMENTATION IN GODOT
-
+# Motion Matching Implementation In Godot
 
 ## Introduction
 
