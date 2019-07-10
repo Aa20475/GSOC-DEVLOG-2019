@@ -18,3 +18,14 @@ Motion Matching is one of the latest features in Game Animation which is quite r
 
 #### This wonderful feature needs to be included in Godot!
 
+
+## Overview
+
+This project has three parts :
+
+* Cost function
+* Future trajectory prediction model
+* KD-Trees for optimisation
+
+
+
