@@ -27,7 +27,7 @@ This project has three parts :
 * Future trajectory prediction model
 * KD-Trees for KNN search (Optimisation)
 
-We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, along side data collection, tried out implementing KDTree and KNN search. The UI was ready by mid June and then I started adding and testing the KDTree and KNN search algorithms with it.
+We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, alongwith data collection, tried out implementing KDTree and KNN search. The UI was ready by mid June and then I started adding and testing the KDTree and KNN search algorithms with it.
 
 #### `AnimationNodeMotionMatch` in `AnimationTree`:
 
