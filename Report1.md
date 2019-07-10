@@ -35,7 +35,7 @@ During evaluation period, I tried making a simple future trajectory prediction m
 
 After that, I started implementing **Pose and Trajectory Matching**(Calculating cost function using pose and root trajectory comparisons) without including KDTrees yet(*Just as a brute force attempt*). I'm still working on fixing the crashes in this matching.
 
-![AnimationNodeMotionMatch in AnimationTree](/Data/AnimationNodeMotionmatch.gif)
+![AnimationNodeMotionMatch in AnimationTree](/Data/AnimationNodeMotionMatch.gif)
 
 
 ## Next Steps:
