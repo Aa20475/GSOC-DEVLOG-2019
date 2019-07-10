@@ -38,7 +38,6 @@ We started off by collecting datasets for testing while @reduz worked on the UI 
 
 ![AnimationNodeMotionMatchEditor](/Data/AnimationNodeMotionMatchEditor.png)
 
-
 Just before the first evaluation , I successfully added KDtree and KNN search to the `AnimationNodeMotionMatch`.
 
 During evaluation period, I tried making a simple future trajectory prediction models. 
@@ -58,3 +57,5 @@ After that, I started implementing **Pose and Trajectory Matching**(Calculating 
 * Replacing the brute force approach with KNN search using KDTrees.
 
 * Adding Sliders for parameters such as Pose vs Trajectory etc. 
+
+* Many more modifications needed to the UI.
