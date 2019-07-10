@@ -29,9 +29,14 @@ This project has three parts :
 
 We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, along side data collection, tried out implementing KDTree and KNN search. The UI was ready by mid June and then I started adding and testing the KDTree and KNN search algorithms with it.
 
-`AnimationNodeMotionMatch` in `AnimationTree`:
+**`AnimationNodeMotionMatch` in `AnimationTree`:**
 
 ![AnimationNodeMotionMatch in AnimationTree](/Data/AnimationNodeMotionMatch.gif)
+
+
+`AnimationNodeMotionMatchEditor` UI:
+
+![AnimationNodeMotionMatchEditor](/Data/AnimationNodeMotionMatchEditor.png)
 
 
 Just before the first evaluation , I successfully added KDtree and KNN search to the `AnimationNodeMotionMatch`.
