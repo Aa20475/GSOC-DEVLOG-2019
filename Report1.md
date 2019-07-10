@@ -44,6 +44,15 @@ During evaluation period, I tried making a simple future trajectory prediction m
 
 After that, I started implementing **Pose and Trajectory Matching**(Calculating cost function using pose and root trajectory comparisons) without including KDTrees yet(*Just as a brute force attempt*). I'm still working on fixing the crashes in this matching.
 
+#### 'Animation Player not set' error :
+
+![AnimationPlayerError](/Data/NoPlayer.gif)
+
+#### 'Root Motion Track not set' error :
+
+![RootTrackError](/Data/NoRoot.gif)
+
+
 
 
 ## Next Steps:
@@ -58,4 +67,4 @@ After that, I started implementing **Pose and Trajectory Matching**(Calculating 
 
 * Adding Sliders for parameters such as Pose vs Trajectory etc. 
 
-* Many more modifications needed to the UI.
+* Many more additions needed to the UI.
