@@ -55,7 +55,7 @@ After that, I started implementing **Pose and Trajectory Matching**(Calculating 
 
 
 
-## Next Steps:
+## Things to do:
 
 * Getting Pose and Trajectory Matching running without any crashes.
 
