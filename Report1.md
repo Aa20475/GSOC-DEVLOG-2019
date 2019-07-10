@@ -25,7 +25,25 @@ This project has three parts :
 
 * Cost function
 * Future trajectory prediction model
-* KD-Trees for optimisation
+* KD-Trees for KNN search (Optimisation)
+
+We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, along side data collection, tried out implementing KDTree and KNN search. The UI was ready by **June 14th, 2019** and then I started adding and testing my KDTree and KNN search algorithms with it.
+
+By **20th June,2019** , I successfully added KDtree and KNN search to the `AnimationNodeMotionMatch`.
+
+During evaluation period, I tried making a simple future trajectory prediction models. 
+
+After that, I started implementing **Pose and Trajectory Matching**(Calculating cost function using pose and root trajectory comparisons.) without including KDTrees yet.(*Just as a brute force attempt*) 
+
+Till date, I'm working on fixes the crashes that are occuring in this matching.
 
 
+## Next Steps:
 
+* Getting Pose and Trajectory Matching running without any crashes.
+
+* Adding Velocity Matching too so that the matching gets much natural.
+
+* Taking past data into account during matching, so that we won't ignore weight-shifts and get a natural looking animation.
+
+* Replacing the brute force approach with KNN search using KDTrees.
