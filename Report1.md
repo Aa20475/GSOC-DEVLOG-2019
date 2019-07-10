@@ -29,13 +29,17 @@ This project has three parts :
 
 We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, along side data collection, tried out implementing KDTree and KNN search. The UI was ready by mid June and then I started adding and testing the KDTree and KNN search algorithms with it.
 
+`AnimationNodeMotionMatch` in `AnimationTree`:
+
+![AnimationNodeMotionMatch in AnimationTree](/Data/AnimationNodeMotionMatch.gif)
+
+
 Just before the first evaluation , I successfully added KDtree and KNN search to the `AnimationNodeMotionMatch`.
 
 During evaluation period, I tried making a simple future trajectory prediction models. 
 
 After that, I started implementing **Pose and Trajectory Matching**(Calculating cost function using pose and root trajectory comparisons) without including KDTrees yet(*Just as a brute force attempt*). I'm still working on fixing the crashes in this matching.
 
-![AnimationNodeMotionMatch in AnimationTree](/Data/AnimationNodeMotionMatch.gif)
 
 
 ## Next Steps:
