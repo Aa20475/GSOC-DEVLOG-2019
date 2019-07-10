@@ -4,7 +4,7 @@
 
 **Mentors:** Juan Linietsky([@reduz](https://github.com/reduz)) and Thomas Herzog([@karroffel](https://github.com/karroffel))
 
-
+**GIT 
 
 ## Introduction
 
@@ -27,15 +27,15 @@ This project has three parts :
 * Future trajectory prediction model
 * KD-Trees for KNN search (Optimisation)
 
-We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, along side data collection, tried out implementing KDTree and KNN search. The UI was ready by **June 14th, 2019** and then I started adding and testing my KDTree and KNN search algorithms with it.
+We started off by collecting datasets for testing while @reduz worked on the UI of the Editor. I, along side data collection, tried out implementing KDTree and KNN search. The UI was ready by mid June and then I started adding and testing the KDTree and KNN search algorithms with it.
 
-By **20th June,2019** , I successfully added KDtree and KNN search to the `AnimationNodeMotionMatch`.
+Just before the first evaluation , I successfully added KDtree and KNN search to the `AnimationNodeMotionMatch`.
 
 During evaluation period, I tried making a simple future trajectory prediction models. 
 
-After that, I started implementing **Pose and Trajectory Matching**(Calculating cost function using pose and root trajectory comparisons.) without including KDTrees yet.(*Just as a brute force attempt*) 
+After that, I started implementing **Pose and Trajectory Matching**(Calculating cost function using pose and root trajectory comparisons) without including KDTrees yet(*Just as a brute force attempt*). I'm still working on fixing the crashes in this matching.
 
-Till date, I'm working on fixes the crashes that are occuring in this matching.
+![AnimationNodeMotionMatch in AnimationTree](/Data/AnimationNodeMotionmatch.gif)
 
 
 ## Next Steps:
@@ -47,3 +47,5 @@ Till date, I'm working on fixes the crashes that are occuring in this matching.
 * Taking past data into account during matching, so that we won't ignore weight-shifts and get a natural looking animation.
 
 * Replacing the brute force approach with KNN search using KDTrees.
+
+* Adding Sliders for parameters such as Pose vs Trajectory etc. 
