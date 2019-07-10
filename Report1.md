@@ -1,6 +1,6 @@
 **Project Name :**  Motion Matching Implementation In Godot
 
-**My Name:** Aditya Abhiram (_aka DestinyGamer_)
+**My Name:** Aditya Abhiram (_aka **DestinyGamer**_)
 
 **Mentors:** Juan Linietsky([@reduz](https://github.com/reduz)) and Thomas Herzog([@karroffel](https://github.com/karroffel))
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Hey! This is Aditya Abhiram aka **DestinyGamer**. I am working on Implementation of Motion Matching in Godot.
+Hey! This is Aditya Abhiram *aka* **DestinyGamer**. I am working on Implementation of Motion Matching in Godot.
 
 Godot, being an open source game engine, was built with a *never-ending wish of adding new features to it*.
 
