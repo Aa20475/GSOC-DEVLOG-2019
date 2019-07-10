@@ -4,7 +4,7 @@
 
 **Mentors:** Juan Linietsky([@reduz](https://github.com/reduz)) and Thomas Herzog([@karroffel](https://github.com/karroffel))
 
-**GIT 
+**GIT Repo:** [godot-motion-matching](https://github.com/Aa20475/godot/tree/godot-motion-matching)
 
 ## Introduction
 
