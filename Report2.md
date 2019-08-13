@@ -6,7 +6,7 @@
 
 **GIT Repo:** [godot-motion-matching](https://github.com/Aa20475/godot/tree/godot-motion-matching)
 
-##HEY!
+## HEY!
 
 
 So the final week! I am currently working to my fullest to complete as much as possible! 
