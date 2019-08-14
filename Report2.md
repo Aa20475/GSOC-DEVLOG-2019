@@ -9,9 +9,10 @@
 ## HEY!
 
 
-So the final week! I am currently working to my fullest to complete as much as possible! 
+So the final week! Some small but crucial things left! 
 
-I was unable to make as much progress. But hope will make something usable by the end.
+I am currently working to my fullest to complete as much as possible! 
+
 
 
 
@@ -21,15 +22,27 @@ I was unable to make as much progress. But hope will make something usable by th
 
 * Exposed controllable variables to user.
 
-* UI is done.
+* UI is done.(almost)
 
 
 ## What's left:
 
 * Adding velocity matching.
 
-* Adding past data consideration.
+* Replacing Brute force with KDTree for Trajectory .
 
-* Replacing Brute force with KDTree for Trajectory and pre -calculating the distances between various poses to reduce computational power.
+* Blending between chosen frames.
+
+* Perfecting prediction mechanism.
+
+
+#### Current state of 'AnimationNodeMotionMatch' :
+
+![AnimationNodeMotionMatch](/Data/R2.mp4)
+
+
+
+
+
 
 
