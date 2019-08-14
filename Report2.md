@@ -38,7 +38,7 @@ I am currently working to my fullest to complete as much as possible!
 
 #### Current state of 'AnimationNodeMotionMatch' :
 
-![AnimationNodeMotionMatch](/Data/R2.mp4)
+![AnimationNodeMotionMatch](/Data/R2.gif)
 
 
 
