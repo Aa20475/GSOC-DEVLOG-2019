@@ -44,7 +44,8 @@ This project has three parts :
 
 **How does Motion Matching work?**
 <p align="center">
-![Motion Matching](/Data/MOMatch%20working.png)</p>
+<img src="/Data/MOMatch%20working.png" alt="Motion Matching">
+</p>
  ## How it went!
 ### Timeline
  #### *Community Bonding Period*
