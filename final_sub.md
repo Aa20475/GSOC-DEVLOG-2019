@@ -46,9 +46,12 @@ This project has three parts :
 <p align="center">
 <img src="/Data/MOMatch%20working.png" alt="Motion Matching">
 </p>
- ## How it went!
+
+## How it went!
+
 ### Timeline
- #### *Community Bonding Period*
+
+#### *Community Bonding Period*
 I started getting familiar with Godot API and trying to implement simple projects in it. I also got familiar with my mentor and other developers. 
 
 #### *Coding Period #1 (May 27,2019 - June 24,2019 )*
