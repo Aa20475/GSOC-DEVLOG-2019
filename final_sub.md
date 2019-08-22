@@ -36,12 +36,6 @@ If you are interested to know how we worked on the project... read on!
  - Building on it by adding KDTree for optimization.
  - Experimenting with it as much as possible!
 
-This project has three parts :
-
- -   Cost function
- -   The future trajectory prediction model
- -   KD-Trees for KNN search (Optimisation)
-
 **How does Motion Matching work?**
 <p align="center">
 <img src="/Data/MOMatch%20working.png" alt="Motion Matching">
