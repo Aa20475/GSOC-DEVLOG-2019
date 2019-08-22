@@ -22,19 +22,30 @@ Motion Matching is one of the latest features in Game Animation which is quite r
 
 #### This wonderful feature needs to be included in Godot!
 
+## How to use this?
+
+Here is a small tutorial on how to use it... It's still not stable and needs a lot of Optimization. 
+
+
+
+
+If you are interested to know how we worked on the project... read on!
+
 ## What was the plan?
  - Starting by implementing simple Pose and Trajectory matching using Brute force approach.
  - Building on it by adding KDTree for optimization.
  - Experimenting with it as much as possible!
 
-## How it went!
 This project has three parts :
 
  -   Cost function
  -   The future trajectory prediction model
  -   KD-Trees for KNN search (Optimisation)
- 
 
+**How does Motion Matching work?**
+
+ ## How it went!
+### Timeline
  #### *Community Bonding Period*
 I started getting familiar with Godot API and trying to implement simple projects in it. I also got familiar with my mentor and other developers. 
 
@@ -56,3 +67,21 @@ Bugs persisted but worked my best to fix stuff. Tried to replace brute force app
 
 #### *Final Work submission Period (August 19,2019 - August 26,2019)*
 Still stuck up with the parameter passing issues.
+
+## My Thoughts about this project:
+Godot and its people are amazing! I enjoyed working with them a lot! My mentors were especially very helpful. They taught me even the smallest of things, patiently. I'm very thankful for giving me a chance to work on this project.
+
+Coming to the project! Understanding the awesome Godot API was a good experience. Initially, I thought that Motion Matching can be completed in a considerably short time. But it turned out to be more complicated than I expected. 
+
+### Challenges I faced : 
+
+- Implementing KDTrees and KNN search was itself a challenging task. I tried my best but was unable to optimize it. 
+- Choosing a proper prediction function took some thinking. Implementing a simple trajectory and pose choosing system was easier. 
+- Filling tracks with incomplete keyframes.
+- Making a way through which the user can set the velocity
+- Get it to run when playing the scene. 
+
+## What's left?
+- Add velocity matching.
+- Get it to work when the scene is playing.
+- Optimizing the KDtree KNNSearch algorithm.
