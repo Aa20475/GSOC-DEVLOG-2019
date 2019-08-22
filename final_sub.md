@@ -43,8 +43,8 @@ This project has three parts :
  -   KD-Trees for KNN search (Optimisation)
 
 **How does Motion Matching work?**
-
-![Motion Matching](/Data/MOMatch%20working.png)
+<p align="center">
+![Motion Matching](/Data/MOMatch%20working.png)</p>
  ## How it went!
 ### Timeline
  #### *Community Bonding Period*
