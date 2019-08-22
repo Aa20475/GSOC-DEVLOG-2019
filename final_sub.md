@@ -44,7 +44,8 @@ This project has three parts :
 
 **How does Motion Matching work?**
 
-![Working of Motion Matching](/Data/MOMatch working.png)
+![Working of Motion Matching]
+(/Data/MOMatch working.png)
 
 
 
