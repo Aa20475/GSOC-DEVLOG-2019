@@ -14,7 +14,7 @@ I'm so excited to share my experience while working with this project! This proj
 
 ## Motivation:
 
-Godot, is an open-source game engine, was built with a  _never-ending wish of adding new features to it_.
+Godot, an open-source game engine, was built with a  _never-ending wish of adding new features to it_.
 
 Motion Matching is one of the latest features in Game Animation which is quite revolutionary. Usually, setting up a basic animation system needs a lot of work and time. Even after that, we barely manage to make a perfect one. Motion matching, on the other hand, is a method where the computer chooses the best pose for each frame by itself from a huge database of mocap data using some Algorithm.
 
