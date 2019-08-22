@@ -44,8 +44,7 @@ This project has three parts :
 
 **How does Motion Matching work?**
 
-[MotionMatching](/Data/MOMatch working.png)
-
+![Motion Matching](/Data/MOMatch%20working.png)
  ## How it went!
 ### Timeline
  #### *Community Bonding Period*
