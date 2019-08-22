@@ -44,8 +44,7 @@ This project has three parts :
 
 **How does Motion Matching work?**
 
-![
-]](/Data/AnimationNodeMotionMatch.gif)
+[MotionMatching](/Data/MOMatch working.png)
 
  ## How it went!
 ### Timeline
