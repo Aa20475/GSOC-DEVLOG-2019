@@ -26,7 +26,7 @@ Motion Matching is one of the latest features in Game Animation which is quite r
 
 Here is a small tutorial on how to use it... It's still not stable and needs a lot of Optimization. 
 
-
+[Motion matching tutorial](https://www.youtube.com/watch?v=TSyEniSzVfo&t=109s)
 
 
 **If you are interested to know how we worked on the project... read on!**
