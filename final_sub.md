@@ -82,5 +82,6 @@ Coming to the project! Understanding the awesome Godot API was a good experience
 
 ## What's left?
 - Add velocity matching.
-- Get it to work when the scene is playing.
+- **Get it to work when the scene is playing.**
 - Optimizing the KDtree KNNSearch algorithm.
+- Considering past samples too in matching.
